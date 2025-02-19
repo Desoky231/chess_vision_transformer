@@ -1,0 +1,9 @@
+*.pdf
+related/
+output/
+dataset/
+stockfish-windows-x86-64-avx2/
+*.ndjson
+*.zip
+*.template
+
