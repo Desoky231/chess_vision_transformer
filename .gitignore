@@ -6,4 +6,4 @@ stockfish-windows-x86-64-avx2/
 *.ndjson
 *.zip
 *.template
-
+*.csv
